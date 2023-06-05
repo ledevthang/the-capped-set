@@ -35,6 +35,41 @@
       "artifacts": [
         "CappedSet"
       ]
+    },
+    "/Users/leducthang/Desktop/blockchain/the-capped-set/contracts/CappedSet.sol": {
+      "lastModificationDate": 1685954805415,
+      "contentHash": "5db1d1b8578c86c615690f16b76c2aec",
+      "sourceName": "contracts/CappedSet.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "CappedSet"
+      ]
     }
   }
 }
